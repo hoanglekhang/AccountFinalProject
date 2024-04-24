@@ -61,9 +61,3 @@ Deadlines
 11:30pm Apr29: Finalize documentation, perform comprehensive testing, and prepare for submission.
 
 
-
-
-
-
-
-![image](https://github.com/hoanglekhang/AccountFinalProject/assets/112513812/69080d05-61aa-423a-8e4b-10d5e75d1b26)
